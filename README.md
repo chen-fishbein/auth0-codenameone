@@ -12,8 +12,8 @@ The library is implemented for Android and iOS.
 
 ## Configure
 Open your codenameone_settings.properties and replace:</br>
-1) <INSERT_YOUR_APP_CLIENT_ID> with your client id from the Auth0 settings</br>
-2)<YOUR_DOMAIN> with your domain from the Auth0 settings</br>
+1) \<INSERT_YOUR_APP_CLIENT_ID\> with your client id from the Auth0 settings</br>
+2)\<YOUR_DOMAIN\> with your domain from the Auth0 settings</br>
 
 ## Sample of Usage
 
