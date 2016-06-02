@@ -6,14 +6,11 @@ This plugin supports the Lock screen login - https://auth0.com/lock
 The library is implemented for Android and iOS.
 
 ##Integration
-1)Build the project <br/>
-2)Place the CN1Auth0Lib.cn1lib file in your CN1 project lib. <br/>
-3)Right click on your CN1 project and select "Refresh Libs" then clean build your project.
 
-## Configure
-Open your codenameone_settings.properties and replace:</br>
-1) \<INSERT_YOUR_APP_CLIENT_ID\> with your client id from the Auth0 settings</br>
-2)\<YOUR_DOMAIN\> with your domain from the Auth0 settings</br>
+1. Build the project <br/>
+2. Place the CN1Auth0Lib.cn1lib file in your CN1 project lib. <br/>
+3. Right click on your CN1 project and select "Refresh Libs" then clean build your project.
+4. Add the build hints `auth0.clientId` and `auth0.domain` to your project's build hints.
 
 ## Sample of Usage
 
