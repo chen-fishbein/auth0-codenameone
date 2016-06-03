@@ -10,7 +10,7 @@ The library is implemented for Android and iOS.
 1. Build the project <br/>
 2. Place the CN1Auth0Lib.cn1lib file in your CN1 project lib. <br/>
 3. Right click on your CN1 project and select "Refresh Libs" then clean build your project.
-4. Add the build hints `auth0.clientId` and `auth0.domain` to your project's build hints.
+4. Add the build hints `var.auth0.clientId` and `var.auth0.domain` to your project's build hints.
 
 ## Sample of Usage
 
