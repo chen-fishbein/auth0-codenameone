@@ -47,3 +47,7 @@ Temporary Items
 .apdisk
 /CN1Auth0Lib/build/
 /CN1Auth0Lib/dist/
+/CN1Auth0Lib/nbproject/private/
+/CN1Auth0Test/nbproject/private/
+/CN1Auth0Test/dist/
+/CN1Auth0Test/build/
